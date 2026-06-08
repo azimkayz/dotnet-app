@@ -58,3 +58,4 @@ jobs:
           app-name: 'webapp-dev-ukw-001'
           slot-name: 'Production'
           package: ./publish
+
